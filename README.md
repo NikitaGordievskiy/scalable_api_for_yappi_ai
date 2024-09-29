@@ -1,7 +1,7 @@
-# <p align="center"> ЦИФРОВОЙ ПРОРЫВ: СЕЗОН ИИ </p>
-# <p align="center"> Выравнивание изображений номеров автомобилей </p>
+# <p align="center"> ЦИФРОВОЙ ПРОРЫВ: ВСЕРОССИЙСКИЙ ХАКАТОН </p>
+# <p align="center"> Поиск дубликатов видео </p>
 
-# <p align="center"> ЭТО РЕПОЗИТОРИЙ С РЕАЛИЗАЦИЕЙ API И ДЕМОНСТРАЦИОННОГО ВЕБ-ПРИЛОЖЕНИЯ, НЕЙРОННАЯ МОДЕЛЬ НАХОДИТСЯ [В ЭТОМ РЕПОЗИТОРИИ](https://github.com/electteam-gods/model) </p>
+# <p align="center"> ЭТО РЕПОЗИТОРИЙ С РЕАЛИЗАЦИЕЙ API И СЕРВИСА, НЕЙРОННАЯ МОДЕЛЬ НАХОДИТСЯ [В ЭТОМ РЕПОЗИТОРИИ](https://github.com/electteam-gods/vidio_comparison_api) </p>
 
 <p align="center">
 <img width="400" height="400" alt="photo" src="https://github.com/NikitaGordievskiy/align-car-plates-beeline/blob/b9c650acbbf7d6690ae649edc2df5506344327f7/logo_electteam.jpg">
@@ -109,9 +109,6 @@ S3 бакет был предоставлен сторонним облачны�
 
 ## <a name="7">Полезные ссылки </a>
 
-- [ссылка на веса модели детекции](https://github.com/electteam-gods/model/tree/main/weights)
-- [ссылка на код модели с комментариями](https://github.com/electteam-gods/model)
-- [ссылка на код формирования таблицы ответов на тестовый датасет](https://github.com/electteam-gods/model/blob/main/pipeline.ipynb)
+- [ссылка на код модели с комментариями](https://github.com/electteam-gods/vidio_comparison_api/tree/main/video_comparision_api)
 - [ссылка на скринкаст](https://disk.yandex.ru/d/lcg9v136wceEGw)&nbsp;
-- [ссылка на демо](http://plates.ellecteam.ayarayarovich.ru)&nbsp;
-- [ссылка на код обучения](https://github.com/electteam-gods/model/blob/main/train-notbook.ipynb)
+
